@@ -1,0 +1,50 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+
+# Editor files
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# .env file for storing sensitive data like API keys
+.env
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Testing
+*.coverage
+*.hypothesis/
+
+# Logs
+*.log
+
+# IDE settings (e.g., PyCharm)
+.idea/
+.vscode/
+
+# Other custom ignores (adjust based on your needs)
+*.bak
+*.swp

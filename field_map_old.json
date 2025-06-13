@@ -1,0 +1,681 @@
+[
+  {
+    "id": "Buyer HAS NOT consulted with a lender If Buyer marks the box on line 3 Buyer is to complete only lines 4 and 5_line_13",
+    "pdf_field": "Buyer HAS NOT consulted with a lender If Buyer marks the box on line 3 Buyer is to complete only lines 4 and 5",
+    "line_number": 13,
+    "question": "What should be entered for 'Buyer HAS NOT consulted with a lender If Buyer marks the box on line 3 Buyer is to complete only lines 4 and 5' on line 13?",
+    "type": "boolean"
+  },
+  {
+    "id": "PRINT BUYERS NAME_line_14",
+    "pdf_field": "PRINT BUYERS NAME",
+    "line_number": 14,
+    "question": "What should be entered for 'PRINT BUYERS NAME' on line 14?",
+    "type": "text"
+  },
+  {
+    "id": "PRINT BUYERS NAME_2_line_14",
+    "pdf_field": "PRINT BUYERS NAME_2",
+    "line_number": 14,
+    "question": "What should be entered for 'PRINT BUYERS NAME_2' on line 14?",
+    "type": "text"
+  },
+  {
+    "id": "BUYERS SIGNATURE_line_15",
+    "pdf_field": "BUYERS SIGNATURE",
+    "line_number": 15,
+    "question": "What should be entered for 'BUYERS SIGNATURE' on line 15?",
+    "type": "text"
+  },
+  {
+    "id": "MODAYR_line_15",
+    "pdf_field": "MODAYR",
+    "line_number": 15,
+    "question": "What should be entered for 'MODAYR' on line 15?",
+    "type": "text"
+  },
+  {
+    "id": "BUYERS SIGNATURE_2_line_15",
+    "pdf_field": "BUYERS SIGNATURE_2",
+    "line_number": 15,
+    "question": "What should be entered for 'BUYERS SIGNATURE_2' on line 15?",
+    "type": "text"
+  },
+  {
+    "id": "MODAYR_2_line_15",
+    "pdf_field": "MODAYR_2",
+    "line_number": 15,
+    "question": "What should be entered for 'MODAYR_2' on line 15?",
+    "type": "text"
+  },
+  {
+    "id": "Lender indicated on lines 36 and 37 has consulted with_line_18",
+    "pdf_field": "Lender indicated on lines 36 and 37 has consulted with",
+    "line_number": 18,
+    "question": "What should be entered for 'Lender indicated on lines 36 and 37 has consulted with' on line 18?",
+    "type": "boolean"
+  },
+  {
+    "id": "Unmarried_line_18",
+    "pdf_field": "Unmarried",
+    "line_number": 18,
+    "question": "What should be entered for 'Unmarried' on line 18?",
+    "type": "text"
+  },
+  {
+    "id": "undefined_line_19",
+    "pdf_field": "undefined",
+    "line_number": 19,
+    "question": "What should be entered for 'undefined' on line 19?",
+    "type": "boolean"
+  },
+  {
+    "id": "Legally Separated_line_19",
+    "pdf_field": "Legally Separated",
+    "line_number": 19,
+    "question": "What should be entered for 'Legally Separated' on line 19?",
+    "type": "boolean"
+  },
+  {
+    "id": "Married_line_19",
+    "pdf_field": "Married",
+    "line_number": 19,
+    "question": "What should be entered for 'Married' on line 19?",
+    "type": "boolean"
+  },
+  {
+    "id": "is_line_20",
+    "pdf_field": "is",
+    "line_number": 20,
+    "question": "What should be entered for 'is' on line 20?",
+    "type": "boolean"
+  },
+  {
+    "id": "is not relying on the sale or lease of a property to qualify for this loan_line_20",
+    "pdf_field": "is not relying on the sale or lease of a property to qualify for this loan",
+    "line_number": 20,
+    "question": "What should be entered for 'is not relying on the sale or lease of a property to qualify for this loan' on line 20?",
+    "type": "boolean"
+  },
+  {
+    "id": "is_2_line_21",
+    "pdf_field": "is_2",
+    "line_number": 21,
+    "question": "What should be entered for 'is_2' on line 21?",
+    "type": "boolean"
+  },
+  {
+    "id": "is not relying on Seller Concessions for Buyers loan costs impounds TitleEscrow Company costs_line_21",
+    "pdf_field": "is not relying on Seller Concessions for Buyers loan costs impounds TitleEscrow Company costs",
+    "line_number": 21,
+    "question": "What should be entered for 'is not relying on Seller Concessions for Buyers loan costs impounds TitleEscrow Company costs' on line 21?",
+    "type": "boolean"
+  },
+  {
+    "id": "is_3_line_24",
+    "pdf_field": "is_3",
+    "line_number": 24,
+    "question": "What should be entered for 'is_3' on line 24?",
+    "type": "boolean"
+  },
+  {
+    "id": "is not relying on down payment assistance to qualify for this loan_line_24",
+    "pdf_field": "is not relying on down payment assistance to qualify for this loan",
+    "line_number": 24,
+    "question": "What should be entered for 'is not relying on down payment assistance to qualify for this loan' on line 24?",
+    "type": "boolean"
+  },
+  {
+    "id": "FHA_line_25",
+    "pdf_field": "FHA",
+    "line_number": 25,
+    "question": "What should be entered for 'FHA' on line 25?",
+    "type": "boolean"
+  },
+  {
+    "id": "USDA_line_25",
+    "pdf_field": "USDA",
+    "line_number": 25,
+    "question": "What should be entered for 'USDA' on line 25?",
+    "type": "boolean"
+  },
+  {
+    "id": "Conventional_line_25",
+    "pdf_field": "Conventional",
+    "line_number": 25,
+    "question": "What should be entered for 'Conventional' on line 25?",
+    "type": "boolean"
+  },
+  {
+    "id": "VA_line_25",
+    "pdf_field": "VA",
+    "line_number": 25,
+    "question": "What should be entered for 'VA' on line 25?",
+    "type": "boolean"
+  },
+  {
+    "id": "Other_line_25",
+    "pdf_field": "Other",
+    "line_number": 25,
+    "question": "What should be entered for 'Other' on line 25?",
+    "type": "boolean"
+  },
+  {
+    "id": "NonOwner Occupied_line_25",
+    "pdf_field": "NonOwner Occupied",
+    "line_number": 25,
+    "question": "What should be entered for 'NonOwner Occupied' on line 25?",
+    "type": "text"
+  },
+  {
+    "id": "Primary_line_26",
+    "pdf_field": "Primary",
+    "line_number": 26,
+    "question": "What should be entered for 'Primary' on line 26?",
+    "type": "boolean"
+  },
+  {
+    "id": "Secondary_line_26",
+    "pdf_field": "Secondary",
+    "line_number": 26,
+    "question": "What should be entered for 'Secondary' on line 26?",
+    "type": "boolean"
+  },
+  {
+    "id": "undefined_2_line_26",
+    "pdf_field": "undefined_2",
+    "line_number": 26,
+    "question": "What should be entered for 'undefined_2' on line 26?",
+    "type": "boolean"
+  },
+  {
+    "id": "Single Family Residence_line_27",
+    "pdf_field": "Single Family Residence",
+    "line_number": 27,
+    "question": "What should be entered for 'Single Family Residence' on line 27?",
+    "type": "boolean"
+  },
+  {
+    "id": "Condominium_line_27",
+    "pdf_field": "Condominium",
+    "line_number": 27,
+    "question": "What should be entered for 'Condominium' on line 27?",
+    "type": "boolean"
+  },
+  {
+    "id": "Planned Unit Development_line_27",
+    "pdf_field": "Planned Unit Development",
+    "line_number": 27,
+    "question": "What should be entered for 'Planned Unit Development' on line 27?",
+    "type": "boolean"
+  },
+  {
+    "id": "Manufactured Home_line_27",
+    "pdf_field": "Manufactured Home",
+    "line_number": 27,
+    "question": "What should be entered for 'Manufactured Home' on line 27?",
+    "type": "boolean"
+  },
+  {
+    "id": "Mobile Home_line_28",
+    "pdf_field": "Mobile Home",
+    "line_number": 28,
+    "question": "What should be entered for 'Mobile Home' on line 28?",
+    "type": "boolean"
+  },
+  {
+    "id": "Vacant LandLot_line_28",
+    "pdf_field": "Vacant LandLot",
+    "line_number": 28,
+    "question": "What should be entered for 'Vacant LandLot' on line 28?",
+    "type": "boolean"
+  },
+  {
+    "id": "Other_2_line_28",
+    "pdf_field": "Other_2",
+    "line_number": 28,
+    "question": "What should be entered for 'Other_2' on line 28?",
+    "type": "boolean"
+  },
+  {
+    "id": "undefined_3_line_28",
+    "pdf_field": "undefined_3",
+    "line_number": 28,
+    "question": "What should be entered for 'undefined_3' on line 28?",
+    "type": "text"
+  },
+  {
+    "id": "17_line_30",
+    "pdf_field": "17",
+    "line_number": 30,
+    "question": "What should be entered for '17' on line 30?",
+    "type": "radio"
+  },
+  {
+    "id": "17_line_30",
+    "pdf_field": "17",
+    "line_number": 30,
+    "question": "What should be entered for '17' on line 30?",
+    "type": "radio"
+  },
+  {
+    "id": "17_line_30",
+    "pdf_field": "17",
+    "line_number": 30,
+    "question": "What should be entered for '17' on line 30?",
+    "type": "radio"
+  },
+  {
+    "id": "18_line_31",
+    "pdf_field": "18",
+    "line_number": 31,
+    "question": "What should be entered for '18' on line 31?",
+    "type": "radio"
+  },
+  {
+    "id": "18_line_31",
+    "pdf_field": "18",
+    "line_number": 31,
+    "question": "What should be entered for '18' on line 31?",
+    "type": "radio"
+  },
+  {
+    "id": "18_line_31",
+    "pdf_field": "18",
+    "line_number": 31,
+    "question": "What should be entered for '18' on line 31?",
+    "type": "radio"
+  },
+  {
+    "id": "19_line_32",
+    "pdf_field": "19",
+    "line_number": 32,
+    "question": "What should be entered for '19' on line 32?",
+    "type": "radio"
+  },
+  {
+    "id": "19_line_32",
+    "pdf_field": "19",
+    "line_number": 32,
+    "question": "What should be entered for '19' on line 32?",
+    "type": "radio"
+  },
+  {
+    "id": "19_line_32",
+    "pdf_field": "19",
+    "line_number": 32,
+    "question": "What should be entered for '19' on line 32?",
+    "type": "radio"
+  },
+  {
+    "id": "provided that the total monthly payment which includes principal interest mortgage_line_33",
+    "pdf_field": "provided that the total monthly payment which includes principal interest mortgage",
+    "line_number": 33,
+    "question": "What should be entered for 'provided that the total monthly payment which includes principal interest mortgage' on line 33?",
+    "type": "text"
+  },
+  {
+    "id": "insurance property taxes insurance HOA fees and flood insurance if applicable does not exceed_line_34",
+    "pdf_field": "insurance property taxes insurance HOA fees and flood insurance if applicable does not exceed",
+    "line_number": 34,
+    "question": "What should be entered for 'insurance property taxes insurance HOA fees and flood insurance if applicable does not exceed' on line 34?",
+    "type": "text"
+  },
+  {
+    "id": "Adjustable Interest Rate_line_35",
+    "pdf_field": "Adjustable Interest Rate",
+    "line_number": 35,
+    "question": "What should be entered for 'Adjustable Interest Rate' on line 35?",
+    "type": "text"
+  },
+  {
+    "id": "Fixed Interest Rate_line_36",
+    "pdf_field": "Fixed Interest Rate",
+    "line_number": 36,
+    "question": "What should be entered for 'Fixed Interest Rate' on line 36?",
+    "type": "boolean"
+  },
+  {
+    "id": "undefined_7_line_36",
+    "pdf_field": "undefined_7",
+    "line_number": 36,
+    "question": "What should be entered for 'undefined_7' on line 36?",
+    "type": "boolean"
+  },
+  {
+    "id": "PrePayment Penalty_line_36",
+    "pdf_field": "PrePayment Penalty",
+    "line_number": 36,
+    "question": "What should be entered for 'PrePayment Penalty' on line 36?",
+    "type": "boolean"
+  },
+  {
+    "id": "Initial Documentation Received Lender received the following information from Buyer additional documentation may be requested_line_36",
+    "pdf_field": "Initial Documentation Received Lender received the following information from Buyer additional documentation may be requested",
+    "line_number": 36,
+    "question": "What should be entered for 'Initial Documentation Received Lender received the following information from Buyer additional documentation may be requested' on line 36?",
+    "type": "text"
+  },
+  {
+    "id": "25_line_39",
+    "pdf_field": "25",
+    "line_number": 39,
+    "question": "What should be entered for '25' on line 39?",
+    "type": "radio"
+  },
+  {
+    "id": "25_line_39",
+    "pdf_field": "25",
+    "line_number": 39,
+    "question": "What should be entered for '25' on line 39?",
+    "type": "radio"
+  },
+  {
+    "id": "25_line_39",
+    "pdf_field": "25",
+    "line_number": 39,
+    "question": "What should be entered for '25' on line 39?",
+    "type": "radio"
+  },
+  {
+    "id": "25a_line_39",
+    "pdf_field": "25a",
+    "line_number": 39,
+    "question": "What should be entered for '25a' on line 39?",
+    "type": "radio"
+  },
+  {
+    "id": "25a_line_39",
+    "pdf_field": "25a",
+    "line_number": 39,
+    "question": "What should be entered for '25a' on line 39?",
+    "type": "radio"
+  },
+  {
+    "id": "25a_line_39",
+    "pdf_field": "25a",
+    "line_number": 39,
+    "question": "What should be entered for '25a' on line 39?",
+    "type": "radio"
+  },
+  {
+    "id": "26_line_40",
+    "pdf_field": "26",
+    "line_number": 40,
+    "question": "What should be entered for '26' on line 40?",
+    "type": "radio"
+  },
+  {
+    "id": "26_line_40",
+    "pdf_field": "26",
+    "line_number": 40,
+    "question": "What should be entered for '26' on line 40?",
+    "type": "radio"
+  },
+  {
+    "id": "26_line_40",
+    "pdf_field": "26",
+    "line_number": 40,
+    "question": "What should be entered for '26' on line 40?",
+    "type": "radio"
+  },
+  {
+    "id": "26a_line_40",
+    "pdf_field": "26a",
+    "line_number": 40,
+    "question": "What should be entered for '26a' on line 40?",
+    "type": "radio"
+  },
+  {
+    "id": "26a_line_40",
+    "pdf_field": "26a",
+    "line_number": 40,
+    "question": "What should be entered for '26a' on line 40?",
+    "type": "radio"
+  },
+  {
+    "id": "26a_line_40",
+    "pdf_field": "26a",
+    "line_number": 40,
+    "question": "What should be entered for '26a' on line 40?",
+    "type": "radio"
+  },
+  {
+    "id": "27_line_41",
+    "pdf_field": "27",
+    "line_number": 41,
+    "question": "What should be entered for '27' on line 41?",
+    "type": "radio"
+  },
+  {
+    "id": "27_line_41",
+    "pdf_field": "27",
+    "line_number": 41,
+    "question": "What should be entered for '27' on line 41?",
+    "type": "radio"
+  },
+  {
+    "id": "27_line_41",
+    "pdf_field": "27",
+    "line_number": 41,
+    "question": "What should be entered for '27' on line 41?",
+    "type": "radio"
+  },
+  {
+    "id": "27a_line_41",
+    "pdf_field": "27a",
+    "line_number": 41,
+    "question": "What should be entered for '27a' on line 41?",
+    "type": "radio"
+  },
+  {
+    "id": "27a_line_41",
+    "pdf_field": "27a",
+    "line_number": 41,
+    "question": "What should be entered for '27a' on line 41?",
+    "type": "radio"
+  },
+  {
+    "id": "27a_line_41",
+    "pdf_field": "27a",
+    "line_number": 41,
+    "question": "What should be entered for '27a' on line 41?",
+    "type": "radio"
+  },
+  {
+    "id": "Other_3_line_41",
+    "pdf_field": "Other_3",
+    "line_number": 41,
+    "question": "What should be entered for 'Other_3' on line 41?",
+    "type": "text"
+  },
+  {
+    "id": "28_line_42",
+    "pdf_field": "28",
+    "line_number": 42,
+    "question": "What should be entered for '28' on line 42?",
+    "type": "radio"
+  },
+  {
+    "id": "28_line_42",
+    "pdf_field": "28",
+    "line_number": 42,
+    "question": "What should be entered for '28' on line 42?",
+    "type": "radio"
+  },
+  {
+    "id": "28_line_42",
+    "pdf_field": "28",
+    "line_number": 42,
+    "question": "What should be entered for '28' on line 42?",
+    "type": "radio"
+  },
+  {
+    "id": "28a_line_42",
+    "pdf_field": "28a",
+    "line_number": 42,
+    "question": "What should be entered for '28a' on line 42?",
+    "type": "radio"
+  },
+  {
+    "id": "28a_line_42",
+    "pdf_field": "28a",
+    "line_number": 42,
+    "question": "What should be entered for '28a' on line 42?",
+    "type": "radio"
+  },
+  {
+    "id": "28a_line_42",
+    "pdf_field": "28a",
+    "line_number": 42,
+    "question": "What should be entered for '28a' on line 42?",
+    "type": "radio"
+  },
+  {
+    "id": "Buyer has instructed and Lender agrees to provide loan status updates on the AAR Loan Status Update form to Seller and Brokers_line_43",
+    "pdf_field": "Buyer has instructed and Lender agrees to provide loan status updates on the AAR Loan Status Update form to Seller and Brokers",
+    "line_number": 43,
+    "question": "What should be entered for 'Buyer has instructed and Lender agrees to provide loan status updates on the AAR Loan Status Update form to Seller and Brokers' on line 43?",
+    "type": "text"
+  },
+  {
+    "id": "DATE_line_50",
+    "pdf_field": "DATE",
+    "line_number": 50,
+    "question": "What should be entered for 'DATE' on line 50?",
+    "type": "text"
+  },
+  {
+    "id": "COMPANY_line_51",
+    "pdf_field": "COMPANY",
+    "line_number": 51,
+    "question": "What should be entered for 'COMPANY' on line 51?",
+    "type": "text"
+  },
+  {
+    "id": "ARIZONA LICENSE_line_51",
+    "pdf_field": "ARIZONA LICENSE",
+    "line_number": 51,
+    "question": "What should be entered for 'ARIZONA LICENSE' on line 51?",
+    "type": "text"
+  },
+  {
+    "id": "NMLS_line_51",
+    "pdf_field": "NMLS",
+    "line_number": 51,
+    "question": "What should be entered for 'NMLS' on line 51?",
+    "type": "text"
+  },
+  {
+    "id": "LOAN OFFICER_line_53",
+    "pdf_field": "LOAN OFFICER",
+    "line_number": 53,
+    "question": "What should be entered for 'LOAN OFFICER' on line 53?",
+    "type": "text"
+  },
+  {
+    "id": "ARIZONA LICENSE_2_line_53",
+    "pdf_field": "ARIZONA LICENSE_2",
+    "line_number": 53,
+    "question": "What should be entered for 'ARIZONA LICENSE_2' on line 53?",
+    "type": "text"
+  },
+  {
+    "id": "NMLS_2_line_53",
+    "pdf_field": "NMLS_2",
+    "line_number": 53,
+    "question": "What should be entered for 'NMLS_2' on line 53?",
+    "type": "text"
+  },
+  {
+    "id": "ADDRESS_line_55",
+    "pdf_field": "ADDRESS",
+    "line_number": 55,
+    "question": "What should be entered for 'ADDRESS' on line 55?",
+    "type": "text"
+  },
+  {
+    "id": "CITY_line_55",
+    "pdf_field": "CITY",
+    "line_number": 55,
+    "question": "What should be entered for 'CITY' on line 55?",
+    "type": "text"
+  },
+  {
+    "id": "STATE_line_55",
+    "pdf_field": "STATE",
+    "line_number": 55,
+    "question": "What should be entered for 'STATE' on line 55?",
+    "type": "text"
+  },
+  {
+    "id": "ZIP_line_55",
+    "pdf_field": "ZIP",
+    "line_number": 55,
+    "question": "What should be entered for 'ZIP' on line 55?",
+    "type": "text"
+  },
+  {
+    "id": "EMAIL_line_56",
+    "pdf_field": "EMAIL",
+    "line_number": 56,
+    "question": "What should be entered for 'EMAIL' on line 56?",
+    "type": "text"
+  },
+  {
+    "id": "PHONE_line_56",
+    "pdf_field": "PHONE",
+    "line_number": 56,
+    "question": "What should be entered for 'PHONE' on line 56?",
+    "type": "text"
+  },
+  {
+    "id": "FAX_line_56",
+    "pdf_field": "FAX",
+    "line_number": 56,
+    "question": "What should be entered for 'FAX' on line 56?",
+    "type": "text"
+  },
+  {
+    "id": "LOAN OFFICERS SIGNATURE_line_58",
+    "pdf_field": "LOAN OFFICERS SIGNATURE",
+    "line_number": 58,
+    "question": "What should be entered for 'LOAN OFFICERS SIGNATURE' on line 58?",
+    "type": "text"
+  },
+  {
+    "id": "MODAYR_3_line_58",
+    "pdf_field": "MODAYR_3",
+    "line_number": 58,
+    "question": "What should be entered for 'MODAYR_3' on line 58?",
+    "type": "text"
+  },
+  {
+    "id": "BUYERS SIGNATURE_1A_line_61",
+    "pdf_field": "BUYERS SIGNATURE_1A",
+    "line_number": 61,
+    "question": "What should be entered for 'BUYERS SIGNATURE_1A' on line 61?",
+    "type": "text"
+  },
+  {
+    "id": "MODAYR_4_line_61",
+    "pdf_field": "MODAYR_4",
+    "line_number": 61,
+    "question": "What should be entered for 'MODAYR_4' on line 61?",
+    "type": "text"
+  },
+  {
+    "id": "MODAYR_5_line_61",
+    "pdf_field": "MODAYR_5",
+    "line_number": 61,
+    "question": "What should be entered for 'MODAYR_5' on line 61?",
+    "type": "text"
+  },
+  {
+    "id": "BUYERS SIGNATURE2_line_61",
+    "pdf_field": "BUYERS SIGNATURE2",
+    "line_number": 61,
+    "question": "What should be entered for 'BUYERS SIGNATURE2' on line 61?",
+    "type": "text"
+  }
+]

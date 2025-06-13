@@ -1,0 +1,352 @@
+[
+  {
+    "pdf_field": "Buyer HAS NOT consulted with a lender If Buyer marks the box on line 3 Buyer is to complete only lines 4 and 5",
+    "question": "What should be entered for 'Buyer HAS NOT consulted with a lender If Buyer marks the box on line 3 Buyer is to complete only lines 4 and 5'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "PRINT BUYERS NAME",
+    "question": "What should be entered for 'PRINT BUYERS NAME'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "PRINT BUYERS NAME_2",
+    "question": "What should be entered for 'PRINT BUYERS NAME_2'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "MODAYR",
+    "question": "What should be entered for 'MODAYR'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "MODAYR_2",
+    "question": "What should be entered for 'MODAYR_2'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "Lender indicated on lines 36 and 37 has consulted with",
+    "question": "What should be entered for 'Lender indicated on lines 36 and 37 has consulted with'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Unmarried",
+    "question": "What should be entered for 'Unmarried'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "undefined",
+    "question": "What should be entered for 'undefined'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Legally Separated",
+    "question": "What should be entered for 'Legally Separated'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "FHA",
+    "question": "What should be entered for 'FHA'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "USDA",
+    "question": "What should be entered for 'USDA'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Married",
+    "question": "What should be entered for 'Married'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "is",
+    "question": "What should be entered for 'is'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "is_2",
+    "question": "What should be entered for 'is_2'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "is_3",
+    "question": "What should be entered for 'is_3'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Conventional",
+    "question": "What should be entered for 'Conventional'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Primary",
+    "question": "What should be entered for 'Primary'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Single Family Residence",
+    "question": "What should be entered for 'Single Family Residence'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Mobile Home",
+    "question": "What should be entered for 'Mobile Home'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "is not relying on the sale or lease of a property to qualify for this loan",
+    "question": "What should be entered for 'is not relying on the sale or lease of a property to qualify for this loan'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "is not relying on Seller Concessions for Buyers loan costs impounds TitleEscrow Company costs",
+    "question": "What should be entered for 'is not relying on Seller Concessions for Buyers loan costs impounds TitleEscrow Company costs'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "is not relying on down payment assistance to qualify for this loan",
+    "question": "What should be entered for 'is not relying on down payment assistance to qualify for this loan'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "VA",
+    "question": "What should be entered for 'VA'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Secondary",
+    "question": "What should be entered for 'Secondary'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Condominium",
+    "question": "What should be entered for 'Condominium'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Vacant LandLot",
+    "question": "What should be entered for 'Vacant LandLot'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Other",
+    "question": "What should be entered for 'Other'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "undefined_2",
+    "question": "What should be entered for 'undefined_2'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Planned Unit Development",
+    "question": "What should be entered for 'Planned Unit Development'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Other_2",
+    "question": "What should be entered for 'Other_2'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "NonOwner Occupied",
+    "question": "What should be entered for 'NonOwner Occupied'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "Manufactured Home",
+    "question": "What should be entered for 'Manufactured Home'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "undefined_3",
+    "question": "What should be entered for 'undefined_3'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "provided that the total monthly payment which includes principal interest mortgage",
+    "question": "What should be entered for 'provided that the total monthly payment which includes principal interest mortgage'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "insurance property taxes insurance HOA fees and flood insurance if applicable does not exceed",
+    "question": "What should be entered for 'insurance property taxes insurance HOA fees and flood insurance if applicable does not exceed'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "Adjustable Interest Rate",
+    "question": "What should be entered for 'Adjustable Interest Rate'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "Fixed Interest Rate",
+    "question": "What should be entered for 'Fixed Interest Rate'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "undefined_7",
+    "question": "What should be entered for 'undefined_7'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "PrePayment Penalty",
+    "question": "What should be entered for 'PrePayment Penalty'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "Initial Documentation Received Lender received the following information from Buyer additional documentation may be requested",
+    "question": "What should be entered for 'Initial Documentation Received Lender received the following information from Buyer additional documentation may be requested'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "Other_3",
+    "question": "What should be entered for 'Other_3'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "Buyer has instructed and Lender agrees to provide loan status updates on the AAR Loan Status Update form to Seller and Brokers",
+    "question": "What should be entered for 'Buyer has instructed and Lender agrees to provide loan status updates on the AAR Loan Status Update form to Seller and Brokers'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "DATE",
+    "question": "What should be entered for 'DATE'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "COMPANY",
+    "question": "What should be entered for 'COMPANY'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "ARIZONA LICENSE",
+    "question": "What should be entered for 'ARIZONA LICENSE'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "NMLS",
+    "question": "What should be entered for 'NMLS'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "LOAN OFFICER",
+    "question": "What should be entered for 'LOAN OFFICER'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "ARIZONA LICENSE_2",
+    "question": "What should be entered for 'ARIZONA LICENSE_2'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "NMLS_2",
+    "question": "What should be entered for 'NMLS_2'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "ADDRESS",
+    "question": "What should be entered for 'ADDRESS'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "CITY",
+    "question": "What should be entered for 'CITY'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "STATE",
+    "question": "What should be entered for 'STATE'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "ZIP",
+    "question": "What should be entered for 'ZIP'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "EMAIL",
+    "question": "What should be entered for 'EMAIL'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "PHONE",
+    "question": "What should be entered for 'PHONE'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "FAX",
+    "question": "What should be entered for 'FAX'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "MODAYR_3",
+    "question": "What should be entered for 'MODAYR_3'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "MODAYR_4",
+    "question": "What should be entered for 'MODAYR_4'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "MODAYR_5",
+    "question": "What should be entered for 'MODAYR_5'?",
+    "type": "text"
+  },
+  {
+    "pdf_field": "17",
+    "question": "What should be entered for '17'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "18",
+    "question": "What should be entered for '18'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "19",
+    "question": "What should be entered for '19'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "25",
+    "question": "What should be entered for '25'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "26",
+    "question": "What should be entered for '26'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "28",
+    "question": "What should be entered for '28'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "27",
+    "question": "What should be entered for '27'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "25a",
+    "question": "What should be entered for '25a'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "26a",
+    "question": "What should be entered for '26a'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "27a",
+    "question": "What should be entered for '27a'?",
+    "type": "boolean"
+  },
+  {
+    "pdf_field": "28a",
+    "question": "What should be entered for '28a'?",
+    "type": "boolean"
+  }
+]
