@@ -174,4 +174,4 @@ def download_file(filename):
 
 # === RUN ===
 if __name__ == "__main__":
-    app.run(port=3030)
+    app.run(host="0.0.0.0", port=3030)
